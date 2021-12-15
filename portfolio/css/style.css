@@ -81,13 +81,15 @@ li {
   font-size: 72px;
   line-height: 1.2;
   margin-bottom: 20px;
-  color: #f5b5d5;
+  /*color: #f5b5d5;*/ /*タイトルのフォントの色*/
+  color: #FF0000
 }
 .header-subtitle {
   font-family: "Amatic SC", cursive;
   font-size: 30px;
   line-height: 1;
   letter-spacing: .08em;
+  color: #FF0000
 }
 
 /*--------------------------------
