@@ -54,7 +54,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .1em;
-  color: #f5b5d5;
+  color: #FF0000;
 }
 
 .lead {
@@ -278,7 +278,7 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #fadcea;
+  background-color: #dcfae0;
 }
 
 .page-top .material-icons-outlined {
@@ -291,7 +291,7 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #efc4d8;
+  background-color: #c4efdd;
 }
 
 .copyright {
